@@ -1,0 +1,9 @@
+Building a Webmap using Python is not that easy as Python doesn't have all the features.
+One PL should also not have all the features. Otherwise, it would become a very heavy Language. 
+To build a map, we mainly need the help of HTML,CSS,JavaScript.
+And Python has a very cool feature to convert a Python code into a HTML,CSS or JavaScript Code. 
+It's named Folium.
+You can just install it from your cmd prompt. 
+regarding the editor: my suggestion is to use Atom because it is very dynamic and fast. 
+I will be uploading gradually the code to build a Webmap.  
+Stay tuned and have fun with coding.
